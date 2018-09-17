@@ -1,5 +1,7 @@
 # Die Filterblasen der Anderen?
 
+## -Work in progress-
+
 ### 1. Anwendung
 
 Dies ist eine Anwendung zum Testen der Visualisierungskapazitäten der Python-Bibliothek 'plotly' basiernd auf Daten gewonnen mithilfe der Python-Bibliothek 'tweepy'.
@@ -28,6 +30,3 @@ Die Anwendung versucht, das Twitter-Verhalten der ersten Gruppe, der 'Böhermann
 Visualisiert werden die von den jeweiligen Gruppen verwendeten Hashtags im Zeitraum vom 19. August bis zum 6. September. Die Darstellung wurde beschränkt auf die Hashtags, die an einem der Tage in diesem Zeitraum entweder der am häufigsten oder zweithäufigsten innerhalb dieser Gruppen verwendet wurden. Diese wurden der Anzahl nach auf einem Zeitstrahl als Liniendiagramm dargestellt.
 
 Aufgrund der außergewöhnlich hohen Zahl von Tweets unter dem Hashtag 'Chemnitz' wurden außerdem die Volltexte dieses Subsets von Tweets einbezogen. Disen wurden nach den am häufigsten verwendeten Wörtern und den am häufigsten verwendeten Adjektiv-Subjekt Kombinationen visualisiert.
-
-
-### 5. Visualisierung
